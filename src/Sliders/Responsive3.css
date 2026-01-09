@@ -1,0 +1,26 @@
+ .carousel .slide {
+  background: none;
+}
+.carousel .slide img {
+  width: 800px;
+  height: 520px;     
+  object-fit: cover; 
+}
+
+/* 
+.carousel .legend {
+  bottom: 20px;     
+  font-size: 14px;
+  padding: 10px;
+} */
+
+
+.carousel .slider-wrapper {
+  margin-bottom: 0px;
+}
+.carousel .thumb img {
+  width: 90px;
+  height: 70px;
+  object-fit: cover; 
+  /* /* border-radius: 6px;  */
+}
